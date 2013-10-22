@@ -1,0 +1,13 @@
+input{
+background:none;
+border:1px solid #ddd;
+font:bold 0.95em arial, sans-serif;
+color: white;
+-moz-border-radius:0.4em;
+-khtml-border-radius:0.4em;
+}
+input:hover, input:focus {
+	border-color:#c5c5c5;
+	background:#6B6B6B;
+	opacity: 60%;
+}
